@@ -1,12 +1,11 @@
 # Hey 👋, I'm Brasilicio
 
-A High School student and aspiring Full Stack developer.
+A high school student at IFRN and a Fullstack development intern.
 
 ## About Me
 ✨ Programming since 2024  
-📚 Currently learning React Native and Next.js  
-🚀 Working on personal projects and exploring modern web development  
-🎯 Goals: work in development and, in the future, become a teacher
+📚 Currently learning React Native and Nest.js  
+🚀 Working on personal projects, exploring modern web development, and working as a Backend developer
 
 ## 🚀 Tech Stack
 <div align="left">
@@ -22,6 +21,7 @@ A High School student and aspiring Full Stack developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js" />
   <br><br>
   <strong>Database:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -34,6 +34,8 @@ A High School student and aspiring Full Stack developer.
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://ghchart.rshah.org/brasilicioh" alt="GitHub Contributions" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=brasilicioh&theme=dark&border_radius=8&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
 </div>
 
 ## 👀 See Recent Works
