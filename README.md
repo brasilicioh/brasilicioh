@@ -1,11 +1,11 @@
 # Hey 👋, I'm Brasilicio
 
-A high school student at IFRN and a Fullstack development intern.
+A high school student at IFRN and a Fullstack Developer (Internship).
 
 ## About Me
 ✨ Programming since 2024  
 📚 Currently learning React Native and Nest.js  
-🚀 Working on personal projects, exploring modern web development, and working as a Backend developer
+🚀 Working on personal projects, exploring modern web development, and working as a Fullstack Developer
 
 ## 🚀 Tech Stack
 <div align="left">
@@ -39,6 +39,6 @@ A high school student at IFRN and a Fullstack development intern.
 </div>
 
 ## 👀 See Recent Works
-- **[Redis Employee Site](https://github.com/G-Aleixo/redis-employee-site):** Trabalho de Banco de Dados para representar um sistema de uma empresa. Além disso, utilizar o SGBD Redis como cache.
-- **[Automatic Character Creator](https://github.com/brasilicioh/ACC):** Primeiro projeto de site utilizando React. Site para criação de personagens.
-- **[Videoaula de Programação](https://github.com/brasilicioh/videoaula-programacao-competitiva):** Repositório feito para produzir videoaulas utilizando MoviePy.
+- **[Soluções OBI IFPA](https://github.com/G-Aleixo/solucoes-obi-ifpar):** First project of the Cube de Programação IFPAR. Website under development for simulating an Online Judge for the OBI.
+- **[Redis Employee Site](https://github.com/G-Aleixo/redis-employee-site):** Representation of a system of a fictitious company. Simulating slow queries and using Redis as a cache storage.
+- **[Automatic Character Creator](https://github.com/brasilicioh/ACC):** First website project using React. Website for character creation.
