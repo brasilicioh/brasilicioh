@@ -39,6 +39,6 @@ A high school student at IFRN and a Fullstack Developer (Internship).
 </div>
 
 ## 👀 See Recent Works
-- **[Soluções OBI IFPA](https://github.com/G-Aleixo/solucoes-obi-ifpar):** First project of the Cube de Programação IFPAR. Website under development for simulating an Online Judge for the OBI.
+- **[Soluções OBI IFPAR](https://github.com/clubeppar/solucoes-obi-ifpar-front):** First project of the [Clube de Programação IFPAR](https://github.com/clubeppar). Website under development for simulating an Online Judge for the OBI.
 - **[Redis Employee Site](https://github.com/G-Aleixo/redis-employee-site):** Representation of a system of a fictitious company. Simulating slow queries and using Redis as a cache storage.
-- **[Automatic Character Creator](https://github.com/brasilicioh/ACC):** First website project using React. Website for character creation.
+- **[Aline's Simulator](https://github.com/brasilicioh/aline-simulator):** Website that simulates kinematics in physics.
