@@ -51,13 +51,13 @@ A high school student at IFRN, Fullstack Developer (Internship) and Programming 
 </div>
 
 ## 👀 My Works
-- **[IFPAR Student Support Portal](https://github.com/Flask-Web-Development/2026-grupo-11-brasilicio-gui-kaio):** Responsive web platform designed to centralize academic and institutional information for IFPAR students, featuring public content, post management, categories, tags, search and an administrative dashboard. (Coming Soon).
-- **[Jogo Tortarado](https://github.com/brasilicioh/Jogo-Tortarado):** Educational literature game, inspired by *Torto Arado* by Itamar Vieira Júnior. Made with Godot Engine.
+- **[IFPAR Student Support Portal](https://github.com/Flask-Web-Development/2026-grupo-11-brasilicio-gui-kaio):** Responsive web platform designed to centralize academic and institutional information for IFPAR students, featuring public content, post management, categories, tags, search and an administrative dashboard. (Coming soon).
+- **[Jogo Tortarado](https://github.com/brasilicioh/Jogo-Tortarado):** Educational literary game, inspired by *Torto Arado* by Itamar Vieira Júnior. Built with Godot Engine.
 - **[Soluções OBI IFPAR](https://github.com/clubeppar/solucoes-obi-ifpar-front):** Online Judge-style platform for practicing OBI problems, developed collaboratively by students from the IFPAR Programming Club.
 - **[Aline's Simulator](https://github.com/brasilicioh/aline-simulator):** Interactive physics simulator for studying uniform motion, uniformly accelerated motion and free fall, built with React, TypeScript and Vite.
 - **[Redis Employee Site](https://github.com/G-Aleixo/redis-employee-site):** Educational employee management system demonstrating Redis as a caching layer alongside Flask and SQLite.
 - **[JoguinDeMesa](https://github.com/PC123456789N/JoguinDeMesa):** Educational geography game focused on demographic dynamics, developed as a school project.
 - **[Dice Simulator](https://github.com/brasilicioh/simuladorDados):** Interactive website for simulating dice rolls with customizable dice and modifiers using JavaScript.
-- **[Soluções OBI](https://github.com/brasilicioh/Solucoes-OBI):** Collection of solutions to Brazilian Informatics Olympiad (OBI) problems implemented in multiple programming languages. With a judge at the terminal. Made with Python.
+- **[Soluções OBI](https://github.com/brasilicioh/Solucoes-OBI):** Collection of solutions to Brazilian Informatics Olympiad (OBI) problems implemented in multiple programming languages. Featuring a terminal-based judge. Made with Python.
 - **[Competitive Programming Video Lesson](https://github.com/brasilicioh/videoaula-programacao-competitiva):** Educational project introducing competitive programming through explanations, problem solving and programming examples.
-- **[Esofromatem](https://github.com/G-Aleixo/esofromatem):** Educational literature game, inspired by *The Metamorphosis* by Franz Kafka. Made with HTML, CSS and JS.
+- **[Esofromatem](https://github.com/G-Aleixo/esofromatem):** Educational literary game, inspired by *The Metamorphosis* by Franz Kafka. Built with HTML, CSS and JavaScript.
