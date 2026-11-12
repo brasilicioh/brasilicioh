@@ -9,13 +9,14 @@ A high school student at IFRN, Fullstack Developer (Internship) and Programming 
 
 ## 🚀 Tech Stack
 <div align="left">
-  <strong>Frontend:</strong> 
+  <strong>Frontend:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  height="40" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro" />
   <br><br>
   <strong>Backend:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -51,13 +52,14 @@ A high school student at IFRN, Fullstack Developer (Internship) and Programming 
 </div>
 
 ## 👀 My Works
-- **[IFPAR Student Support Portal](https://github.com/Flask-Web-Development/2026-grupo-11-brasilicio-gui-kaio):** Responsive web platform designed to centralize academic and institutional information for IFPAR students, featuring public content, post management, categories, tags, search and an administrative dashboard. (Coming soon).
+- **[Biology Lab - Red Blood Cells](https://github.com/brasilicioh/bio-3d):** Interactive educational biology experience featuring 3D red blood cell structures, genetics, oxygen transport, and a humorous local voting mini-game. Built with React.
+- **[IFPAR Student Support Portal](https://github.com/Flask-Web-Development/2026-grupo-11-brasilicio-gui-kaio):** Responsive web platform designed to centralize academic and institutional information for IFPAR students, featuring public content, post management, categories, tags, search and an administrative dashboard. Build with Next.js, Tailwind and Flask.
 - **[Jogo Tortarado](https://github.com/brasilicioh/Jogo-Tortarado):** Educational literary game, inspired by *Torto Arado* by Itamar Vieira Júnior. Built with Godot Engine.
-- **[Soluções OBI IFPAR](https://github.com/clubeppar/solucoes-obi-ifpar-front):** Online Judge-style platform for practicing OBI problems, developed collaboratively by students from the IFPAR Programming Club.
-- **[Aline's Simulator](https://github.com/brasilicioh/aline-simulator):** Interactive physics simulator for studying uniform motion, uniformly accelerated motion and free fall, built with React, TypeScript and Vite.
+- **[Soluções OBI IFPAR](https://github.com/clubeppar/solucoes-obi-ifpar-front):** Online Judge-style platform for practicing OBI problems, developed collaboratively by students from the IFPAR Programming Club. Build with Flask, React and Tailwind.
+- **[Aline's Simulator](https://github.com/brasilicioh/aline-simulator):** Interactive physics simulator for studying uniform motion, uniformly accelerated motion and free fall, built with React, Tailwind, TypeScript and Vite.
 - **[Redis Employee Site](https://github.com/G-Aleixo/redis-employee-site):** Educational employee management system demonstrating Redis as a caching layer alongside Flask and SQLite.
-- **[JoguinDeMesa](https://github.com/PC123456789N/JoguinDeMesa):** Educational geography game focused on demographic dynamics, developed as a school project.
-- **[Dice Simulator](https://github.com/brasilicioh/simuladorDados):** Interactive website for simulating dice rolls with customizable dice and modifiers using JavaScript.
+- **[JoguinDeMesa](https://github.com/PC123456789N/JoguinDeMesa):** Educational geography game focused on demographic dynamics, developed as a school project. Build with HTML, JS, CSS and Bootstrap.
+- **[Dice Simulator](https://github.com/brasilicioh/simuladorDados):** Interactive website for simulating dice rolls with customizable dice and modifiers using Astro.
 - **[Soluções OBI](https://github.com/brasilicioh/Solucoes-OBI):** Collection of solutions to Brazilian Informatics Olympiad (OBI) problems implemented in multiple programming languages. Featuring a terminal-based judge. Made with Python.
-- **[Competitive Programming Video Lesson](https://github.com/brasilicioh/videoaula-programacao-competitiva):** Educational project introducing competitive programming through explanations, problem solving and programming examples.
+- **[Competitive Programming Video Lesson](https://github.com/brasilicioh/videoaula-programacao-competitiva):** Educational project introducing competitive programming through explanations, problem solving and programming examples. Built with Python
 - **[Esofromatem](https://github.com/G-Aleixo/esofromatem):** Educational literary game, inspired by *The Metamorphosis* by Franz Kafka. Built with HTML, CSS and JavaScript.
